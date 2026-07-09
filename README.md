@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋 I'm Saravanan S
 
-<!--
-**Saravananshankar98/Saravananshankar98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Frontend Developer | React.js Developer
 
-Here are some ideas to get you started:
+Frontend Developer with **4+ years of experience** in building responsive and scalable web applications using **React.js, Next.js, TypeScript, JavaScript, HTML5, and CSS3**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Developer
+- ⚛️ React.js & Next.js Developer
+- 🌱 Currently learning AI-assisted development with Claude Code
+- 📍 Chennai, Tamil Nadu, India
+- 🚀 Open to React.js & Frontend Developer opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Redux
+- Tailwind CSS
+- Material UI
+- REST APIs
+- Git
+- GitHub
+
+---
+
+## 🌐 Portfolio
+
+https://saravananshankar98.github.io/portfolio/
+
+---
+
+## 💼 LinkedIn
+
+https://www.linkedin.com/in/saravanan-s-aa257124a/
+
+---
+
+## 📫 Contact
+
+📧 Email: saravananvijay005@gmail.com
