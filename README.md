@@ -41,7 +41,7 @@ https://saravananshankar98.github.io/portfolio/
 
 ## 💼 LinkedIn
 
-https://www.linkedin.com/in/saravanan-s-aa257124a/
+[https://www.linkedin.com/in/saravanan-s-aa257124a/](https://www.linkedin.com/in/saravanan-s-frontend-engineer/)
 
 ---
 
